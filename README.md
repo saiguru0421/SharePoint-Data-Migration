@@ -6,9 +6,9 @@ Welcome to the SharePoint Data Migration project repository! This project involv
 ## Project Structure
 The repository is structured as follows:
 
-1. **Gantt Chart**: The `Gantt_Chart.xlsx` file contains the project plan presented as a Gantt chart. It details the timeline, tasks, resources, durations, and costs associated with each phase of the project.
+1. **Gantt Chart**: The `Gantt_Chart.mpp` file contains the project plan presented as a Gantt chart. It details the timeline, tasks, resources, durations, and costs associated with each phase of the project.
 
-2. **Budget Summary**: The `Budget_Summary.xlsx` file provides a breakdown of the project budget by resource. It outlines the total costs incurred by project managers, SharePoint administrators, and UI/UX designers.
+2. **Budget Summary**: The Budget summary provides a breakdown of the project budget by resource. It outlines the total costs incurred by project managers, SharePoint administrators, and UI/UX designers.
 
 3. **README**: You are currently viewing the README file, which offers an overview of the project, its structure, and how to use the repository.
 
