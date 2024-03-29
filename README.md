@@ -23,19 +23,19 @@ To effectively utilize this repository:
 
 ## Key Contributions and Technologies:
 
--**SharePoint Design and Architecture**: Architected a scalable Corporate Hub Site with 13 functional subsites tailored to various departmental needs, ensuring a cohesive and interactive user experience. Utilized SharePoint Online and SharePoint Designer for site and subsite customization, focusing on usability and accessibility.
+- **SharePoint Design and Architecture**: Architected a scalable Corporate Hub Site with 13 functional subsites tailored to various departmental needs, ensuring a cohesive and interactive user experience. Utilized SharePoint Online and SharePoint Designer for site and subsite customization, focusing on usability and accessibility.
 
--**Integration with Microsoft 365 Suite**: Seamlessly integrated the hub and subsites with OneDrive and Microsoft Teams, facilitating document management and team collaboration. Leveraged the Power Platform to develop custom applications and automate workflows, enhancing productivity across departments.
+- **Integration with Microsoft 365 Suite**: Seamlessly integrated the hub and subsites with OneDrive and Microsoft Teams, facilitating document management and team collaboration. Leveraged the Power Platform to develop custom applications and automate workflows, enhancing productivity across departments.
 
--**Workflow Automation & Management**: Developed multiple SharePoint workflows using Power Automate to streamline Human Resource management processes, including Employee Leave Management, Employee Listing, and a Sensitive Document Management Library. Implemented MS Approvals for efficient document and request approvals.
+- **Workflow Automation & Management**: Developed multiple SharePoint workflows using Power Automate to streamline Human Resource management processes, including Employee Leave Management, Employee Listing, and a Sensitive Document Management Library. Implemented MS Approvals for efficient document and request approvals.
 
--**Data Migration & Connectivity**: Employed the SharePoint Migration Tool (SPMT) for a structured cutover migration, utilizing CSV migration jobs for data accuracy and efficiency. Connected on-premises client servers to SharePoint using the SharePoint Migration Agent, ensuring a seamless data transfer and integration.
+- **Data Migration & Connectivity**: Employed the SharePoint Migration Tool (SPMT) for a structured cutover migration, utilizing CSV migration jobs for data accuracy and efficiency. Connected on-premises client servers to SharePoint using the SharePoint Migration Agent, ensuring a seamless data transfer and integration.
 
--**Power BI Integration**: Integrated Power BI for real-time data analytics and reporting, providing stakeholders with insights into project progress, resource allocation, and productivity metrics. Designed interactive dashboards and reports for enhanced decision-making.
+- **Power BI Integration**: Integrated Power BI for real-time data analytics and reporting, providing stakeholders with insights into project progress, resource allocation, and productivity metrics. Designed interactive dashboards and reports for enhanced decision-making.
 
--**Security & Compliance**: Ensured the implementation of robust security measures and compliance standards, including sensitive document management and access controls, to protect corporate data and uphold privacy regulations.
+- **Security & Compliance**: Ensured the implementation of robust security measures and compliance standards, including sensitive document management and access controls, to protect corporate data and uphold privacy regulations.
 
--**User Training & Adoption**: Conducted comprehensive training sessions for end-users on navigating the new Corporate Hub Site, utilizing integrated tools, and adhering to best practices. Facilitated a smooth transition and high adoption rate through engaging training materials and support documentation.
+- **User Training & Adoption**: Conducted comprehensive training sessions for end-users on navigating the new Corporate Hub Site, utilizing integrated tools, and adhering to best practices. Facilitated a smooth transition and high adoption rate through engaging training materials and support documentation.
 
 ## Impact:
 
